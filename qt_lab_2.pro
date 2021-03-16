@@ -7,7 +7,12 @@ SOURCES += \
         main.cpp \
 
 HEADERS += \ \
+    AbstractFactory.h \
     ClassUnit.h \
+    CppClassUnit.h \
+    CppFactory.h \
+    CppMethodUnit.h \
+    CppPrintOperatorUnit.h \
     MethodUnit.h \
     PrintOperatorUnit.h \
     Unit.h
