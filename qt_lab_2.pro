@@ -13,6 +13,10 @@ HEADERS += \ \
     CppFactory.h \
     CppMethodUnit.h \
     CppPrintOperatorUnit.h \
+    CsharpClassUnit.h \
+    CsharpFactory.h \
+    CsharpMethodUnit.h \
+    CsharpPrintOperatorUnit.h \
     MethodUnit.h \
     PrintOperatorUnit.h \
     Unit.h
